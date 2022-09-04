@@ -8,3 +8,5 @@ ZCZC W00 40 L09 Working on Weekly Assignment
 ZCZC W00 100 L02 Zoom Meeting with Lecturer #2
 ZCZC W00 10 L01 SCELE related
 ZCZC W00 40 L05 Studying for Quiz
+ZCZC W00 15 L32 Watching YouTube (OS related topics)
+ZCZC W00 5 L05 Quiz related
