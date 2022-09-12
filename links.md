@@ -23,6 +23,10 @@ Github repository that explains the most out of regex. For me, it's greatly expl
 3. [Linux Edit file](https://www.javatpoint.com/linux-edit-file)<br>
 Editing files in Linux might be tricky because of a certain commands. This webpage is helpful for me to get to know how to edit some files in Linux.  
 
+3. [Bash Beginner Guide](https://tldp.org/LDP/Bash-Beginners-Guide/Bash-Beginners-Guide.pdf)<br>
+A friend recommends me this e-book for beginner Bash guide. I haven't read it yet, but still need to save it as it might become handy :) .  
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
