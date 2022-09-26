@@ -38,13 +38,13 @@ An article that explains the difference between privacy and security.
 An article that explains cybersecurity, more than that, in the easy way!
 
 ## Week 03
-8.[Symmetric vs Asymmetric encryption](https://blog.mailfence.com/symmetric-vs-asymmetric-encryption/#:~:text=Symmetric%20encryption%20uses%20a%20private,her%20private%20key%20to%20decrypt.)<br>
+8. [Symmetric vs Asymmetric encryption](https://blog.mailfence.com/symmetric-vs-asymmetric-encryption/#:~:text=Symmetric%20encryption%20uses%20a%20private,her%20private%20key%20to%20decrypt.)<br>
 An article that explains the difference between symmetric vs asymmetric encryption, which more secure and their disadvantage.
 
-9.[FUSE Documentation by Kernel](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
+9. [FUSE Documentation by Kernel](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
 At first, i have no idea about FUSE. This official documentation helped me to get my grasp about FUSE in general.
 
-10.[Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM)<br>
+10. [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM)<br>
 This video explains files and file systems really well. Also, you only have to spare 12 minutes to watch this, very brief yet helpful. 
 
 <br>
