@@ -1,4 +1,4 @@
-# Log Format
+`# Log Format
 # ZCZC WEEK# MINUTES LogCode Description
 # LogCode: https://osp4diss.vlsm.org/ETC/logCodes.txt
 ZCZC W00 20 L03 Cloning Github Repository to Local
@@ -43,3 +43,12 @@ ZCZC W03 20 L03 GitHub related
 ZCZC W03 115 L99 Face-to-face lecture
 ZCZC W03 30 L01 SCELE/Discord related 
 ZCZC W03 20 L43 TXT/myrank.txt related, with peer review.
+ZCZC W04 100 L02 ZOOM meetings
+ZCZC W04 115 L99 Face to Face Lecture
+ZCZC W04 20 L03 GitHub related
+ZCZC W04 20 L00 General, etc.
+ZCZC W04 40 L14 Assignment #04 Compiling TLPI
+ZCZC W04 10 L14 Assignment #04 Fix bin not redirected
+ZCZC W04 60 L14 Assignment #04 Reading, GSGS, Demos
+ZCZC W04 40 L05 Studying quiz related (also quiz)
+ZCZC W04 30 L40 Updated links.md and peer review

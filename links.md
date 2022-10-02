@@ -47,6 +47,17 @@ At first, i have no idea about FUSE. This official documentation helped me to ge
 10. [Files & File Systems: Crash Course Computer Science #20](https://www.youtube.com/watch?v=KN8YgJnShPM)<br>
 This video explains files and file systems really well. Also, you only have to spare 12 minutes to watch this, very brief yet helpful. 
 
+## Week 04
+11. [C Tutorial](https://www.tutorialspoint.com/cprogramming/index.htm)<br>
+A basic programming language tutorial for C language.
+
+12. [you will never ask about pointers again after watching this video](https://www.youtube.com/watch?v=2ybLD6_2gKM)<br>
+A really good youtube video that explains about pointers, including the definition and its funcionality. I just got this from peer review and it's quite helpful.
+
+13. [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface)<br>
+A simple linux programming interface wikipedia page. Mostly explains about the book, but also explains the definition in general.
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
