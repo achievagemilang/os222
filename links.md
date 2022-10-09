@@ -57,6 +57,15 @@ A really good youtube video that explains about pointers, including the definiti
 13. [The Linux Programming Interface](https://en.wikipedia.org/wiki/The_Linux_Programming_Interface)<br>
 A simple linux programming interface wikipedia page. Mostly explains about the book, but also explains the definition in general.
 
+## Week 05
+14. [What Is Caching and How It Works](https://www.fortinet.com/resources/cyberglossary/what-is-caching)<br>
+Explains about caching in general also how does it work.
+
+15. [Changing Base Memory on VirtualBox](https://osp4diss.vlsm.org/DebianGuestOnVirtualBox3.html#idx01)<br>
+I forgot to change the base memory while doing this week's assignment. Since we have an assignment related to this, this might be helpful for you :)
+
+16. [Memory Allocation](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)<br>
+A college course material from UAH that explains briefly about memory allocation.
 
 <br>
 <hr>

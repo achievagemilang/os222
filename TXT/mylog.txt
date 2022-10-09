@@ -52,3 +52,10 @@ ZCZC W04 10 L14 Assignment #04 Fix bin not redirected
 ZCZC W04 60 L14 Assignment #04 Reading, GSGS, Demos
 ZCZC W04 40 L05 Studying quiz related (also quiz)
 ZCZC W04 30 L40 Updated links.md and peer review
+ZCZC W05 100 L02 ZOOM meetings
+ZCZC W05 30 L05 weekly quiz related
+ZCZC W05 115 L99 Face to Face Lecture
+ZCZC W05 60 L05 POP Quiz related
+ZCZC W05 30 L40 Updated links.md and peer review
+ZCZC W05 180 L15 Assignment #05 All
+ZCZC W05 20 L00 General, etc.
