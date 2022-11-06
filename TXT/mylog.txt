@@ -59,3 +59,11 @@ ZCZC W05 60 L05 POP Quiz related
 ZCZC W05 30 L40 Updated links.md and peer review
 ZCZC W05 180 L15 Assignment #05 All
 ZCZC W05 20 L00 General, etc.
+ZCZC W06 20 L00 General, etc.
+ZCZC W06 100 L02 ZOOM meetings
+ZCZC W06 30 L01 SCELE/Discord related
+ZCZC W06 10 L03 Github related
+ZCZC W06 90 L05 Quiz related
+ZCZC W06 40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W06 180 L16 Assignment #06 All
+ZCZC W06 115 L99 Face-to-face Lecture

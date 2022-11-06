@@ -67,6 +67,14 @@ I forgot to change the base memory while doing this week's assignment. Since we 
 16. [Memory Allocation](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)<br>
 A college course material from UAH that explains briefly about memory allocation.
 
+## Week 06
+17. [fork() in C](https://www.geeksforgeeks.org/fork-system-call/)<br>
+Explains about fork() in C language. A good article related to this week's material.
+
+18. [What is Process Scheduling?](https://www.studytonight.com/operating-system/process-scheduling)<br>
+10-minutes read article. It explains briefly about Process Scheduling.
+
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
