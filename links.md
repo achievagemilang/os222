@@ -74,6 +74,15 @@ Explains about fork() in C language. A good article related to this week's mater
 18. [What is Process Scheduling?](https://www.studytonight.com/operating-system/process-scheduling)<br>
 10-minutes read article. It explains briefly about Process Scheduling.
 
+## Week 07
+19. [Critical Section in Synchronization](https://www.geeksforgeeks.org/g-fact-70/)<br>
+Explains the most out of critical section, especially in synchronization context. Only a 5-minute read.
+
+20. [How to Use SCP Command to Securely Transfer Files](https://linuxize.com/post/how-to-use-scp-command-to-securely-transfer-files/)<br>
+Helps to remind me about how to send/get file/files with two different server (remote and local). Might help you too! :) 
+
+21. [Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux)<br>
+Also a short read, only about 7-minutes to read. Explains briefly about synchronization with examples.
 
 <br>
 <hr>
