@@ -84,6 +84,16 @@ Helps to remind me about how to send/get file/files with two different server (r
 21. [Process Synchronization in Linux](https://www.tutorialspoint.com/process-synchronization-in-linux)<br>
 Also a short read, only about 7-minutes to read. Explains briefly about synchronization with examples.
 
+## Week 08
+22. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/view/11.0/)<br>
+Gerrard Beekman's official guidance to make the latest version of LFS. Archived here just in case :)
+
+23. [Multiple Processor Scheduling](https://binaryterms.com/multiple-processor-scheduling.html)<br>
+Explains about multiple processor scheduling or multiprocessor scheduling that focuses on designing the scheduling function for the system which is consist of ‘more than one processor. It's a good source to get to knoe about multiprocessor.
+
+24. [Linux From Scratch (LFS): Proyek untuk membuat Distro Linux Anda sendiri](https://blog.desdelinux.net/id/linux-dari-awal-lfs-pembuatan-proyek-distro-linux/)<br>
+Explains about LFS but in Bahasa. Might easier to understand.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.

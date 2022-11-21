@@ -75,3 +75,11 @@ ZCZC W07 200 L17 Assignment #07 All
 ZCZC W07 115 L99 Face-to-face lecture
 ZCZC W07 100 L05 Quiz Related
 ZCZC W07 40 L06 References/Books/Documents/Browsing/GSGS related
+ZCZC W08 40 L00 General, etc.
+ZCZC W08 100 L02 ZOOM meetings
+ZCZC W08 50 L01 SCELE/Discord related
+ZCZC W08 10 L03 Github related
+ZCZC W08 300 L18 Assignment #08 All
+ZCZC W08 115 L99 Face-to-face lecture
+ZCZC W08 120 L05 Quiz Related
+ZCZC W08 60 L06 References/Books/Documents/Browsing/GSGS related
