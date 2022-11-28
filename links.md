@@ -94,6 +94,13 @@ Explains about multiple processor scheduling or multiprocessor scheduling that f
 24. [Linux From Scratch (LFS): Proyek untuk membuat Distro Linux Anda sendiri](https://blog.desdelinux.net/id/linux-dari-awal-lfs-pembuatan-proyek-distro-linux/)<br>
 Explains about LFS but in Bahasa. Might easier to understand.
 
+## Week 08
+25. [chroot command in Linux with examples](https://www.geeksforgeeks.org/chroot-command-in-linux-with-examples/)<br>
+GFG guide to chroot command in Linux. Helped me understand it better.
+
+26.[Cleaning up and Saving the Temporary System](https://www.linuxfromscratch.org/lfs/view/development/chapter07/cleanup.html)
+LFS guide to clean and save our temporary system.
+
 <br>
 <hr>
 &copy; {{ site.copyright }} --- {{ site.author }} --- Version: {{ site.version }}.
