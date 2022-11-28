@@ -98,7 +98,7 @@ Explains about LFS but in Bahasa. Might easier to understand.
 25. [chroot command in Linux with examples](https://www.geeksforgeeks.org/chroot-command-in-linux-with-examples/)<br>
 GFG guide to chroot command in Linux. Helped me understand it better.
 
-26.[Cleaning up and Saving the Temporary System](https://www.linuxfromscratch.org/lfs/view/development/chapter07/cleanup.html)
+26. [Cleaning up and Saving the Temporary System](https://www.linuxfromscratch.org/lfs/view/development/chapter07/cleanup.html)
 LFS guide to clean and save our temporary system.
 
 <br>
